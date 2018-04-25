@@ -8,5 +8,5 @@ def display_board
   puts row
   puts line
   puts row
-  
+
 end
